@@ -2,7 +2,7 @@ package lesson4Exceptions;
 
 public class PhoneExceptionTester {
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String[] numbers = new String[] {
             "123", "456", null
         };
