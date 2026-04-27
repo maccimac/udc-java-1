@@ -1,4 +1,4 @@
-package lesson3Inheritance;
+package lesson4Inheritance;
 
 public class Person {
 

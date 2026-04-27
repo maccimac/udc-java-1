@@ -1,4 +1,4 @@
-package lesson3Polymorphisme;
+package lesson4Polymorphisme;
 
 public class Car extends Vehicle{
 

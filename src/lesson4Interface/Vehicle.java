@@ -1,4 +1,4 @@
-package lesson3Interface;
+package lesson4Interface;
 
 public interface Vehicle {
     public String getType();

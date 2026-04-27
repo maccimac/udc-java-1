@@ -1,4 +1,4 @@
-package lesson3Inheritance;
+package lesson4Inheritance;
 
 /**
  * Create a new class Student in the inheritanceExample package

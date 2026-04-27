@@ -1,4 +1,4 @@
-package lesson3Polymorphisme;
+package lesson4Polymorphisme;
 
 /**
  * Create a new package under the src folder named polymorphismExample.
