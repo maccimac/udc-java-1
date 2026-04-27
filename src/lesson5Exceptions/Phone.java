@@ -1,4 +1,4 @@
-package lesson4Exceptions;
+package lesson5Exceptions;
 
 public class Phone {
     String phoneType;
