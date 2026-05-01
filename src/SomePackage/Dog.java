@@ -20,7 +20,7 @@ public class Dog {
     private void setDogName(String _dogName){
         dogName = _dogName;
     }
-    private String getDogName(){
+    public String getDogName(){
         return dogName;
     }
 
@@ -28,6 +28,7 @@ public class Dog {
     public String toString(){
         return "Dog name is: " + this.getDogName();
     }
+
 
 
 
